@@ -1,6 +1,6 @@
 # Crypto DashBoard App
 
-Simple currency converter with the latest news about crypto currency, connects with https://rapidapi.com/ddeshon/api/crypto-news-live3 and https://rapidapi.com/alphavantage/api/alpha-vantage API
+Simple currency converter and display the latest news about crypto currency, made with REACT in the Frontend and Node.js in the backend,  connects with https://rapidapi.com/ddeshon/api/crypto-news-live3 and https://rapidapi.com/alphavantage/api/alpha-vantage API
 
 
 ## Installation
